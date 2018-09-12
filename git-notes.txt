@@ -1,0 +1,43 @@
+
+1) Read https://docs.gitlab.com/ee/README.html
+https://docs.gitlab.com/ee/ssh/README.html
+
+2) Read https://help.github.com/
+Attention on how to use this page => Use "Search" textbox !!! Type in "generating ssh..." to get this url
+
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+
+3) Make sure to select Windows platform on this url
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+
+=== Then review all these below ===
+Read:
+https://git-extensions-documentation.readthedocs.io/en/latest/remote_feature.html
+
+https://gitextensions.github.io/
+
+https://git-scm.com/downloads
+
+D:\QA_Home\Git
+
+D:\QA_Home\GitExtensions
+
+http://kdiff3.sourceforge.net/
+
+https://www.youtube.com/watch?v=e3bjQX9jIBk
+
+https://media.readthedocs.org/pdf/git-extensions-documentation/release-2.51/git-extensions-documentation.pdf
+
+---
+https://github.com/gitextensions/gitextensions/wiki/How-To:-run-Git-Extensions-on-Linux
+
+https://guides.github.com/activities/hello-world/
+
+
+https://guides.github.com/
+
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+https://try.github.io/
+
+https://lab.github.com/
